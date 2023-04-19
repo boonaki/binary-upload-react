@@ -1,6 +1,6 @@
-﻿# Binary-Upload-React
+﻿## Binary-Upload-React
 
-## MERN Stack MVC Template
+# MERN Stack MVC Monorepo Template
 A full-stack web-application, converted from the 100Dev's [binary-upload-boom](https://github.com/100devs/binary-upload-boom) template to use React.js instead of EJS. It is designed so that the client and server are being ran on 2 different ports. The application features all the operations of CRUD ([Create, Read, Update, Delete](https://www.sumologic.com/glossary/crud/)), happening in the server side, with React functions fetching the necessary data to then be displayed on the frontend. 
 
 ## Tools Used
