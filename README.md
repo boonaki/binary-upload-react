@@ -101,8 +101,5 @@ npm run start
   - `[1]` - Responses from the client
 
 4. The application should automatically open in your primary browser, but if not, you can go to https://localhost:3000 to view the application
-```
-https://localhost:3000
-```
 
 If you encounter any errors when starting locally, ensure that you are in the root of the project and that you have your enviroment variables setup correctly.
