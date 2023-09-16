@@ -56,11 +56,11 @@ cd ..
 
 ### Things to add
 - Create a `.env` file in `/server/config` folder and add the following as `key = value`
-- PORT = `8000` (can be any port EXCEPT `3000`)
-  - DB_STRING = `your database URI`
-  - CLOUD_NAME = `your cloudinary cloud name`
-  - API_KEY = `your cloudinary api key`
-  - API_SECRET = `your cloudinary api secret`
+   - `PORT = 8000` (can be any port EXCEPT `3000`)
+   - `DB_STRING` = [your database URI]
+   - `CLOUD_NAME` = [your cloudinary cloud name]
+   - `API_KEY` = [your cloudinary api key]
+   - `API_SECRET` = [your cloudinary api secret]
 
 ### Tailwind
 To keep things faithful to original, I decided not to implement tailwind into the project. But I really like tailwind, so if you wish to do so:
