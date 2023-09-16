@@ -7,7 +7,7 @@ A full-stack web-application, converted from the 100Dev's [binary-upload-boom](h
 <strong>MongoDB/Mongoose, Express.js, React.js, Node.js, Cloudinary, Multer, Passport, Bootstrap</strong>
 
 ## Optimizations
-This is my first project using React. I have kept the project faithful to the original, but the frontend has a bit more flexibility added to it with the inclusion of `useEffect` and `useState`. There are many optimizations that could be made to improve both ends of this application, but this is a great starting point if you need React in your fullstack web-application.
+I have kept the project faithful to the original, but the frontend has a bit more flexibility added to it with the inclusion of `useEffect` and `useState`. There are many optimizations that could be made to improve both ends of this application, but this is a great starting point if you need React in your fullstack web-application.
 
 This project can get a bit complicated especially when running locally or even with a service provider, which can be seen with the scripts inside the `package.json` file at the root, but I have attempted to make it as simple as possible. Though, you might also prefer the application setup where the server and client are further separated out into 2 different repos. If you wish to see an MVC project using react that separates the client and server into 2 repos, you can check out an MVP for a Sudoku web-application below, developed by [Raymond Guo](https://github.com/RayGuo357/):
 - [server repo](https://github.com/RayGuo357/Sudoku-API)
@@ -100,7 +100,7 @@ npm run start
   - `[0]` - Responses from the server
   - `[1]` - Responses from the client
 
-4. React should automatically open a link in your primary browser, but if not, you can go to https://localhost:3000 to view the application
+4. The application should automatically open in your primary browser, but if not, you can go to https://localhost:3000 to view the application
 ```
 https://localhost:3000
 ```
